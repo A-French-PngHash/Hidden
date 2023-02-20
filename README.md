@@ -10,8 +10,8 @@ This is a fun project I built after discovering a few techniques for hiding imag
   
 
 <p float="left">
-<img  src="https://user-images.githubusercontent.com/75045140/220206955-7e43f107-2e11-4031-adcb-fd6aff1b15a3.png" width="50%">
-<img  src="https://user-images.githubusercontent.com/75045140/220210548-7a5b6dab-0a06-41cd-b47e-bcb6d5d3ec1c.png" width="50%">
+<img  src="https://user-images.githubusercontent.com/75045140/220206955-7e43f107-2e11-4031-adcb-fd6aff1b15a3.png" width="45%">
+<img  src="https://user-images.githubusercontent.com/75045140/220210548-7a5b6dab-0a06-41cd-b47e-bcb6d5d3ec1c.png" width="45%">
 </p>
 
 ## Algorithm
